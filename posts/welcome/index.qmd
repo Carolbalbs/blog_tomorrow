@@ -1,12 +1,16 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-09-08"
-categories: [news]
+title: "Bem vindo ao Tomorrow Positivo UFBA"
+author: "Ana Carolina"
+date: "2025-09-11"
+categories: [educação, sustentabilidade]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in blog. Bem vindo!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+---
+
+Bem-vindo ao **Tomorrow Positivo UFBA**! Estamos muito felizes em iniciar este espaço de troca e aprendizado. Aqui, discutiremos temas importantes sobre educação, sustentabilidade e como podemos construir um futuro mais positivo e consciente.
+
+Nosso blog é um convite para refletir, aprender e agir. Esperamos que você se sinta inspirado e motivado a fazer parte dessa jornada conosco. Juntos, podemos transformar ideias em ações e criar um amanhã melhor..
