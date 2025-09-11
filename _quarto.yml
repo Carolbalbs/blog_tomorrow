@@ -1,8 +1,11 @@
 project:
   type: website
+  preview: 
+    port: 8080
+    navigate: false
 
 website:
-  title: "curso_tomorrow"
+  title: "Blog do Tomorrow Positivo"
   navbar:
     right:
       - about.qmd
