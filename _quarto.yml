@@ -2,15 +2,15 @@ project:
   type: website
   preview: 
     port: 8080
-    navigate: false
+    browser: false
 
 website:
-  title: "Blog do Tomorrow Positivo"
   navbar:
+    logo: "/imagens/tomorrow_0_0.png"
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/carolbalbs/
       - icon: twitter
         href: https://twitter.com
 format:
