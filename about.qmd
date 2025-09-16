@@ -1,19 +1,17 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Sobre Nós"
+image: "/imagens/sobre.jpeg"
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/tomorrowufba
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/company/tomorrowufba
+
 
 ---
 
-About this blog
+Este espaço é dedicado a compartilhar informações sobre o **Tomorrow Positivo UFBA**, ele foi desenvolvido para promover a educação o projeto colaborativo da turma de gerenciamento e configuração de site. Acreditamos que, através do conhecimento e da colaboração, podemos enfrentar os desafios ambientais e sociais que o mundo enfrenta hoje.

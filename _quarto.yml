@@ -5,14 +5,15 @@ project:
     browser: false
 
 website:
+  favicon: "/imagens/favicon.png"
   navbar:
     logo: "/imagens/tomorrow_0_0.png"
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/carolbalbs/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/carolbalbs/blog_tomorrow
+      - icon: instagram
+        href: https://instagram.com/tomorrowufba
 format:
   html:
     theme:
