@@ -1,0 +1,60 @@
+---
+title: "Inteligência Artificial para Iniciantes"
+author: "Matheus de Castro"
+date: "2025-09-18"
+categories: [Inteligencia Artificial, educação, capacitação]
+---
+
+Artigo de apresentação do curso Inteligência Artificial para Iniciantes
+
+![](thumbnail.jpg)
+
+
+
+## O que é Inteligência Artificial (IA) ?
+
+>A inteligência artificial é um campo da ciência que se concentra na criação de computadores e máquinas que podem raciocinar, aprender e atuar de maneira que normalmente exigiria inteligência humana ou que envolve dados com escala maior do que as pessoas podem analisar. 
+> 
+— Google Cloud
+
+De maneira geral, no seu núcleo, a IA busca criar sistemas capazes de aprender, raciocinar e tomar decisões com base em dados, de uma maneira que simula a inteligência humana.
+
+Mas como isso acontece? Seja por meio de aprendizado de máquina, processamento de linguagem natural ou modelos preditivos, a IA está presente em inúmeros aspectos do nosso dia a dia: ela escolhe a melhor rota no seu aplicativo de transporte, sugere filmes e músicas que você vai adorar, e até mesmo responde a suas perguntas em plataformas como o ChatGPT. 
+
+
+## Por que fazer este curso?
+
+Muitas pessoas têm uma ideia vaga sobre o que é Inteligência Artificial, ou mesmo uma noção equivocada. Este curso desmistifica a IA e oferece uma base sólida para que você compreenda o impacto real que ela tem no mundo. Ao aprender os conceitos fundamentais da IA, você será capaz de enxergar as diversas formas de aplicação dessa tecnologia e entender seus limites e potenciais.
+
+A inteligência artificial já está moldando o futuro dos negócios e da sociedade. Profissionais que entendem dessa área têm uma vantagem significativa no mercado de trabalho, pois a demanda por especialistas em IA está crescendo em várias indústrias. De fato, profissionais com habilidades em IA são cada vez mais requisitados, e com isso, melhores oportunidades de trabalho e pesquisa.
+
+Além disso, se você já tem uma ideia inovadora ou até mesmo um projeto em mente, o conhecimento em IA pode ser a chave para transformar essas ideias em realidade. Em campos emergentes, onde a IA pode ser um grande diferencial competitivo, você pode até criar seu próprio negócio, aproveitando o poder dessa tecnologia para inovar.
+
+## Sobre o curso
+
+- Modalidade: Presencial
+- Carga Horária: 30 horas
+- Nível do curso: Básico
+- Elegível para a trilha de: [Inteligência Artificial](https://tomorrow.ufba.br/pt-br/inteligencia-artif-trilhas)
+
+### Objetivos Gerais 
+
+Capacitar o participante a compreender a evolução da IA, seus principais conceitos, técnicas e abordagens permitindo uma compreensão clara dos desafios e possibilidades de aplicações dessa tecnologia. 
+
+
+### Objetivos Específicos
+
+- Apresentar o histórico e a evolução da área de IA
+- Estudar os principais conceitos e técnicas de IA e suas abordagens
+- Identificar oportunidades de aplicação da IA em diferentes contextos
+- Explorar novos modelos de negócios baseados em IA.
+
+### Ementa do curso
+
+- Introdução a Inteligência Artificial
+- Principais Áreas da Inteligência Artificial
+- Introdução ao Aprendizado de Máquina
+- Paradigmas de Aprendizado
+- Técnicas de pré-processamento de dados
+- Modelos Supervisionados
+- Avaliação e Validação de Modelos.
