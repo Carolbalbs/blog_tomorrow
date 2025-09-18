@@ -1,5 +1,5 @@
 ---
-title: "Blog do Tomorrow Positivo"
+title: "Blog Tomorrow Positivo"
 listing:
   contents: posts
   sort: "date desc"

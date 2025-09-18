@@ -8,6 +8,9 @@ website:
   favicon: "/imagens/favicon.png"
   navbar:
     logo: "/imagens/tomorrow_0_0.png"
+    left: 
+      - href: "/menu/como_chegar.qmd"
+        text: Como chegar na UFBA
     right:
       - about.qmd
       - icon: github

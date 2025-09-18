@@ -1,0 +1,8 @@
+---
+title: "Como chegar na UFBA"
+---
+
+   # Como chegar na UFBA - Instituto de Computação
+    <div class="contact map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.5584722683534!2d-38.51006808912712!3d-13.000067860329867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716051edf3febc1%3A0x3c6bf88b8e7dcf9f!2sInstituto%20de%20Computa%C3%A7%C3%A3o%20(IC%2FUFBA)!5e0!3m2!1spt-BR!2sbr!4v1758201551391!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
