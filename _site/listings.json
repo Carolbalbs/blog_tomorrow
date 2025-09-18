@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/artigopython/index.html",
       "/posts/welcome/index.html"
     ]
   }
