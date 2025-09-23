@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-92fff4a25b37122f18cc21af1280ac4c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7e0d635cd5e4daff0a263703e65d272f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -141,7 +142,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./imagens/tomorrow_0_0.png" alt="" class="navbar-logo">
+    <img src="./imagens/tomorrow_0_0.png" alt="" class="navbar-logo light-content">
+    <img src="./imagens/tomorrow_0_0.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -199,7 +201,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZWR1Y2ElQzMlQTclQzMlQTNv">educação <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3VzdGVudGFiaWxpZGFkZQ==">sustentabilidade <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZWR1Y2ElQzMlQTclQzMlQTNv">educação <span class="quarto-category-count">(3)</span></div><div class="category" data-category="c3VzdGVudGFiaWxpZGFkZQ==">sustentabilidade <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -213,7 +215,69 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZWR1Y2ElQzMlQTclQzMlQTNvJTJDc3VzdGVudGFiaWxpZGFkZQ==" data-listing-date-sort="1757991600000" data-listing-file-modified-sort="1758027666096" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="267">
+<div class="quarto-post image-right" data-index="0" data-categories="ZWR1Y2ElQzMlQTclQzMlQTNv" data-listing-date-sort="1758164400000" data-listing-file-modified-sort="1758632042377" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="550">
+<div class="thumbnail"><a href="./posts/GCS/index.html" class="no-external">
+
+<p class="card-img-top"><img src="posts/GCS/imagem1.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/GCS/index.html" class="no-external">Mais que ‘git commit’: A Importância da Gerência de Configuração de Software</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZWR1Y2ElQzMlQTclQzMlQTNv'); return false;">educação</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/GCS/index.html" class="no-external">
+Um curto artigo sobre a imporância da utilização de um gerenciador de configuração de software no dia a dia do programador.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/GCS/index.html" class="no-external">
+<div class="listing-date">
+Sep 18, 2025
+</div>
+<div class="listing-author">
+Rodrigo Araújo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="ZWR1Y2ElQzMlQTclQzMlQTNvJTJDc3VzdGVudGFiaWxpZGFkZQ==" data-listing-date-sort="1757991600000" data-listing-file-modified-sort="1758632035978" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="379">
+<div class="thumbnail"><a href="./posts/Pensamento Computacional/index.html" class="no-external">
+
+<p class="card-img-top"><img src="posts/Pensamento Computacional/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Pensamento Computacional/index.html" class="no-external">Pensamento computacional</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZWR1Y2ElQzMlQTclQzMlQTNv'); return false;">educação</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c3VzdGVudGFiaWxpZGFkZQ=='); return false;">sustentabilidade</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Pensamento Computacional/index.html" class="no-external">
+Artigo sobre Pensamento Computacional do blog da Tomorrow Positivo UFBA.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Pensamento Computacional/index.html" class="no-external">
+<div class="listing-date">
+Sep 16, 2025
+</div>
+<div class="listing-author">
+Henrique Scoppetta
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="ZWR1Y2ElQzMlQTclQzMlQTNvJTJDc3VzdGVudGFiaWxpZGFkZQ==" data-listing-date-sort="1757991600000" data-listing-file-modified-sort="1758629705117" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="267">
 <div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
@@ -299,13 +363,14 @@ Ana Carolina
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
