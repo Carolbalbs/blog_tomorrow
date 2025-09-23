@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre Nós",
+    "section": "",
+    "text": "Este espaço é dedicado a compartilhar informações sobre o Tomorrow Positivo UFBA, ele foi desenvolvido para promover a educação de um projeto colaborativo da turma de gerenciamento e configuração de software. Acreditamos que, através do conhecimento e da colaboração, podemos enfrentar os desafios ambientais e sociais que o mundo enfrenta hoje."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog Tomorrow Positivo",
+    "section": "",
+    "text": "Mais que ‘git commit’: A Importância da Gerência de Configuração de Software\n\n\n\neducação\n\n\n\n\n\n\n\n\n\nSep 18, 2025\n\n\nRodrigo Araújo\n\n\n\n\n\n\n\n\n\n\n\n\nInteligência Artificial para Iniciantes\n\n\n\nInteligencia Artificial\n\neducação\n\ncapacitação\n\n\n\n\n\n\n\n\n\nSep 18, 2025\n\n\nMatheus de Castro\n\n\n\n\n\n\n\n\n\n\n\n\nPensamento computacional\n\n\n\neducação\n\nsustentabilidade\n\n\n\n\n\n\n\n\n\nSep 16, 2025\n\n\nHenrique Scoppetta\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao Tomorrow Positivo UFBA\n\n\n\neducação\n\nsustentabilidade\n\n\n\n\n\n\n\n\n\nSep 16, 2025\n\n\nAna Carolina\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/IAParaIniciantes/index.html",
+    "href": "posts/IAParaIniciantes/index.html",
+    "title": "Inteligência Artificial para Iniciantes",
+    "section": "",
+    "text": "Artigo de apresentação do curso Inteligência Artificial para Iniciantes"
+  },
+  {
+    "objectID": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial-ia",
+    "href": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial-ia",
+    "title": "Inteligência Artificial para Iniciantes",
+    "section": "O que é Inteligência Artificial (IA) ?",
+    "text": "O que é Inteligência Artificial (IA) ?\n\nA inteligência artificial é um campo da ciência que se concentra na criação de computadores e máquinas que podem raciocinar, aprender e atuar de maneira que normalmente exigiria inteligência humana ou que envolve dados com escala maior do que as pessoas podem analisar.\n— Google Cloud\n\nDe maneira geral, no seu núcleo, a IA busca criar sistemas capazes de aprender, raciocinar e tomar decisões com base em dados, de uma maneira que simula a inteligência humana.\nMas como isso acontece? Seja por meio de aprendizado de máquina, processamento de linguagem natural ou modelos preditivos, a IA está presente em inúmeros aspectos do nosso dia a dia: ela escolhe a melhor rota no seu aplicativo de transporte, sugere filmes e músicas que você vai adorar, e até mesmo responde a suas perguntas em plataformas como o ChatGPT."
+  },
+  {
+    "objectID": "posts/IAParaIniciantes/index.html#por-que-fazer-este-curso",
+    "href": "posts/IAParaIniciantes/index.html#por-que-fazer-este-curso",
+    "title": "Inteligência Artificial para Iniciantes",
+    "section": "Por que fazer este curso?",
+    "text": "Por que fazer este curso?\nMuitas pessoas têm uma ideia vaga sobre o que é Inteligência Artificial, ou mesmo uma noção equivocada. Este curso desmistifica a IA e oferece uma base sólida para que você compreenda o impacto real que ela tem no mundo. Ao aprender os conceitos fundamentais da IA, você será capaz de enxergar as diversas formas de aplicação dessa tecnologia e entender seus limites e potenciais.\nA inteligência artificial já está moldando o futuro dos negócios e da sociedade. Profissionais que entendem dessa área têm uma vantagem significativa no mercado de trabalho, pois a demanda por especialistas em IA está crescendo em várias indústrias. De fato, profissionais com habilidades em IA são cada vez mais requisitados, e com isso, melhores oportunidades de trabalho e pesquisa.\nAlém disso, se você já tem uma ideia inovadora ou até mesmo um projeto em mente, o conhecimento em IA pode ser a chave para transformar essas ideias em realidade. Em campos emergentes, onde a IA pode ser um grande diferencial competitivo, você pode até criar seu próprio negócio, aproveitando o poder dessa tecnologia para inovar."
+  },
+  {
+    "objectID": "posts/IAParaIniciantes/index.html#sobre-o-curso",
+    "href": "posts/IAParaIniciantes/index.html#sobre-o-curso",
+    "title": "Inteligência Artificial para Iniciantes",
+    "section": "Sobre o curso",
+    "text": "Sobre o curso\n\nModalidade: Presencial\nCarga Horária: 30 horas\nNível do curso: Básico\nElegível para a trilha de: Inteligência Artificial\n\n\nObjetivos Gerais\nCapacitar o participante a compreender a evolução da IA, seus principais conceitos, técnicas e abordagens permitindo uma compreensão clara dos desafios e possibilidades de aplicações dessa tecnologia.\n\n\nObjetivos Específicos\n\nApresentar o histórico e a evolução da área de IA\nEstudar os principais conceitos e técnicas de IA e suas abordagens\nIdentificar oportunidades de aplicação da IA em diferentes contextos\nExplorar novos modelos de negócios baseados em IA.\n\n\n\nEmenta do curso\n\nIntrodução a Inteligência Artificial\nPrincipais Áreas da Inteligência Artificial\nIntrodução ao Aprendizado de Máquina\nParadigmas de Aprendizado\nTécnicas de pré-processamento de dados\nModelos Supervisionados\nAvaliação e Validação de Modelos."
+  },
+  {
+    "objectID": "posts/GCS/index.html",
+    "href": "posts/GCS/index.html",
+    "title": "Mais que ‘git commit’: A Importância da Gerência de Configuração de Software",
+    "section": "",
+    "text": "Um curto artigo sobre a imporância da utilização de um gerenciador de configuração de software no dia a dia do programador.\n\n\nPara muitos programadores, especialmente no início da carreira, a “Gerência de Configuração de Software” (GCS) pode soar como um termo corporativo burocrático, distante da tarefa diária de escrever código. Na prática, porém, a GCS é uma das redes de segurança mais cruciais e um dos maiores facilitadores de produtividade que um desenvolvedor possui.\nEla vai muito além de simplesmente salvar o trabalho. É o que transforma o caos em colaboração e o código-fonte em um produto confiável.\nVejamos por que ela é vital no cotidiano de quem programa.\n\n1. O Pilar Central: O Controle de Versão (VCS)\nEste é o aspecto mais visível da GCS, geralmente materializado pelo Git. Para o programador, o VCS não é apenas um backup; é uma máquina do tempo e um laboratório seguro.\n\nHistórico e Reversão: Fez uma alteração que quebrou tudo? git checkout ou git revert salvam o dia. Você pode ver quem mudou o quê, por que e quando, o que é inestimável para depurar regressões.\nExperimentação Segura (Branches): Você precisa implementar uma nova feature complexa? Crie um branch. O código principal (main ou develop) permanece estável e funcional, enquanto você trabalha isoladamente. Se a ideia não der certo, o branch é descartado sem impacto.\n\n\n\n2. O Fim do “Funcionava na Minha Máquina!”\nUm dos problemas mais frustrantes do desenvolvimento é quando o software funciona perfeitamente no ambiente local do programador, mas falha em testes ou produção.\nA GCS aborda isso gerenciando não apenas o código, mas tudo o que o código precisa para rodar:\n\nArquivos de configuração (ex: .env.example).\nScripts de build (ex: package.json, pom.xml, Makefile).\nDefinições de infraestrutura (ex: Dockerfile, docker-compose.yml).\n\nAo versionar esses artefatos, a GCS garante que todos na equipe (e o servidor de integração contínua) estejam usando a mesma configuração, criando ambientes replicáveis e reduzindo drasticamente as surpresas.\n\n\n3. Colaboração Harmoniosa, Não Caótica\nSem GCS, o trabalho em equipe seria um pesadelo. Programadores sobrescreveriam o trabalho uns dos outros constantemente. A GCS estabelece as regras do jogo.\nFerramentas como Pull Requests (ou Merge Requests) são a essência da colaboração moderna. Elas forçam uma pausa para Code Review (Revisão de Código), permitindo que outros desenvolvedores analisem as mudanças, sugiram melhorias e garantam a qualidade antes que o novo código seja integrado. Isso evita que bugs sejam introduzidos na base principal e dissemina o conhecimento pelo time.\n\n\n4. Rastreabilidade: O Que Está em Produção?\nQuando um cliente reporta um bug, a primeira pergunta é: “Qual versão do software ele está usando?”.\nA GCS fornece a resposta exata. Através de tags e releases (ex: v1.0.1), o time sabe exatamente qual commit específico está rodando em produção. Isso permite ao programador:\n\nLocalizar o código exato que está falhando.\nCriar um hotfix (correção urgente) a partir daquela versão específica.\nEntregar a correção sem misturá-la com as novas features que ainda estão em desenvolvimento.\n\n\n\nConclusão\nA Gerência de Configuração de Software não é um obstáculo administrativo. Ela é o conjunto de práticas e ferramentas que permite ao programador focar no que realmente importa: resolver problemas e criar valor.\nNo dia a dia, a GCS é a diferença entre a confiança de poder experimentar e o medo de quebrar o sistema; entre a colaboração eficiente e a frustração de conflitos de código; entre um deploy tranquilo e uma noite em claro caçando bugs."
+  },
+  {
+    "objectID": "posts/Pensamento Computacional/index.html",
+    "href": "posts/Pensamento Computacional/index.html",
+    "title": "Pensamento computacional",
+    "section": "",
+    "text": "Artigo sobre Pensamento Computacional do blog da Tomorrow Positivo UFBA.\nBem-vindo ao Tomorrow Positivo UFBA ! Este espaço é dedicado à reflexão e à produção de conhecimento sobre temas contemporâneos relacionados à computação, educação e inovação. Neste artigo, abordamos o pensamento computacional, uma competência essencial para compreender e atuar de forma crítica no mundo digital.\nSegundo Wing (2006), o pensamento computacional pode ser definido como um conjunto de processos cognitivos que envolvem a formulação de problemas e a construção de soluções passíveis de serem executadas por um agente computacional — humano ou máquina. Essa habilidade transcende a programação, pois está relacionada a raciocinar de maneira sistemática, decompondo problemas complexos em partes menores, identificando padrões, abstraindo informações e projetando algoritmos.\nNosso objetivo, com este espaço, é contribuir para a difusão desse conceito e incentivar estudantes, professores e pesquisadores a explorarem suas aplicações em diferentes áreas do conhecimento. O pensamento computacional não se restringe às ciências exatas: ele pode apoiar a resolução de desafios em contextos como saúde, educação, economia e sustentabilidade."
+  },
+  {
+    "objectID": "posts/Pensamento Computacional/index.html#sobre-o-tomorrow-positivo-ufba",
+    "href": "posts/Pensamento Computacional/index.html#sobre-o-tomorrow-positivo-ufba",
+    "title": "Pensamento computacional",
+    "section": "Sobre o Tomorrow Positivo UFBA",
+    "text": "Sobre o Tomorrow Positivo UFBA\nO Tomorrow Positivo UFBA é um projeto desenvolvido no âmbito do Instituto de Computação da UFBA, em parceria com a Positivo. Sua missão é ampliar o acesso a conteúdos formativos em computação e fomentar uma cultura de inovação baseada em princípios acadêmicos e sociais. Entendemos que o pensamento computacional, enquanto competência transversal, é fundamental para formar profissionais e cidadãos preparados para lidar com os desafios do século XXI. Nosso compromisso é disponibilizar periodicamente cursos e materiais didáticos gratuitos que abordam diferentes dimensões do pensamento computacional, desde conceitos fundamentais até aplicações práticas. Os conteúdos incluem temas como decomposição de problemas, reconhecimento de padrões, abstração, algoritmos e suas conexões com áreas emergentes como inteligência artificial, ciência de dados e segurança digital.\n\nApresentamos com orgulho o nosso Projeto de Tomorrow, um verdadeiro tesouro para todos que desejam desbravar o vasto mundo da computação. Nosso compromisso é simples: disponibilizar cursos novos e empolgantes relacionados à área de computação todos os meses, e o melhor de tudo, de forma totalmente gratuita!\n\n\nEssa iniciativa é aberta tanto à comunidade acadêmica da UFBA quanto ao público externo interessado em aprofundar seus conhecimentos. Nosso propósito é estimular uma aprendizagem crítica, colaborativa e acessível, fortalecendo a formação de sujeitos capazes de aplicar o pensamento computacional para inovar e transformar positivamente a sociedade. — Tomorrow Positivo UFBA"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Bem vindo ao Tomorrow Positivo UFBA",
@@ -19,61 +82,5 @@
     "title": "Como chegar na UFBA",
     "section": "",
     "text": "# Como chegar na UFBA - Instituto de Computação\n\n        &lt;iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.5584722683534!2d-38.51006808912712!3d-13.000067860329867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716051edf3febc1%3A0x3c6bf88b8e7dcf9f!2sInstituto%20de%20Computa%C3%A7%C3%A3o%20(IC%2FUFBA)!5e0!3m2!1spt-BR!2sbr!4v1758201551391!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"&gt;&lt;/iframe&gt;\n&lt;/div&gt;"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog Tomorrow Positivo",
-    "section": "",
-    "text": "Inteligência Artificial para Iniciantes\n\n\n\nInteligencia Artificial\n\neducação\n\ncapacitação\n\n\n\n\n\n\n\n\n\nSep 18, 2025\n\n\nMatheus de Castro\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao Tomorrow Positivo UFBA\n\n\n\neducação\n\nsustentabilidade\n\n\n\n\n\n\n\n\n\nSep 16, 2025\n\n\nAna Carolina\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre Nós",
-    "section": "",
-    "text": "Este espaço é dedicado a compartilhar informações sobre o Tomorrow Positivo UFBA, ele foi desenvolvido para promover a educação o projeto colaborativo da turma de gerenciamento e configuração de site. Acreditamos que, através do conhecimento e da colaboração, podemos enfrentar os desafios ambientais e sociais que o mundo enfrenta hoje."
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html",
-    "href": "posts/IAParaIniciantes/index.html",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "",
-    "text": "Artigo de apresentação do curso Inteligência Artificial para Iniciantes"
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html#sobre-o-tomorrow-positivo-ufba",
-    "href": "posts/IAParaIniciantes/index.html#sobre-o-tomorrow-positivo-ufba",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "Sobre o Tomorrow Positivo UFBA",
-    "text": "Sobre o Tomorrow Positivo UFBA\nO Tomorrow Positivo UFBA é um projeto dedicado a promover a educação e a sustentabilidade na Universidade Federal da Bahia. Acreditamos que, através do conhecimento e da colaboração, podemos enfrentar os desafios ambientais e sociais que o mundo enfrenta hoje. Nosso objetivo é criar um espaço onde estudantes, professores e a comunidade possam compartilhar experiências, discutir soluções e inspirar mudanças positivas.\nO Instituto de Computação da UFBA e a generosa parceria da Positivo se unem para trazer a você uma oportunidade única e transformadora."
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial",
-    "href": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "O que é Inteligência Artificial?",
-    "text": "O que é Inteligência Artificial?\n\nA inteligência artificial é um campo da ciência que se concentra na criação de computadores e máquinas que podem raciocinar, aprender e atuar de maneira que normalmente exigiria inteligência humana ou que envolve dados com escala maior do que as pessoas podem analisar.\n— Google Cloud\n\nDe maneira geral, no seu núcleo, a IA busca criar sistemas capazes de aprender, raciocinar e tomar decisões com base em dados, de uma maneira que simula a inteligência humana.\nMas como isso acontece? Seja por meio de aprendizado de máquina, processamento de linguagem natural ou modelos preditivos, a IA está presente em inúmeros aspectos do nosso dia a dia: ela escolhe a melhor rota no seu aplicativo de transporte, sugere filmes e músicas que você vai adorar, e até mesmo responde a suas perguntas em plataformas como o ChatGPT."
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html#sobre-o-curso",
-    "href": "posts/IAParaIniciantes/index.html#sobre-o-curso",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "Sobre o curso",
-    "text": "Sobre o curso\n\nModalidade: Presencial\nCarga Horária: 30 horas\nNível do curso: Básico\nElegível para a trilha de: Inteligência Artificial\n\n\nObjetivos Gerais\nCapacitar o participante a compreender a evolução da IA, seus principais conceitos, técnicas e abordagens permitindo uma compreensão clara dos desafios e possibilidades de aplicações dessa tecnologia.\n\n\nObjetivos Específicos\n\nApresentar o histórico e a evolução da área de IA\nEstudar os principais conceitos e técnicas de IA e suas abordagens\nIdentificar oportunidades de aplicação da IA em diferentes contextos\nExplorar novos modelos de negócios baseados em IA.\n\n\n\nEmenta do curso\n\nIntrodução a Inteligência Artificial\nPrincipais Áreas da Inteligência Artificial\nIntrodução ao Aprendizado de Máquina\nParadigmas de Aprendizado\nTécnicas de pré-processamento de dados\nModelos Supervisionados\nAvaliação e Validação de Modelos."
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html#por-que-fazer-este-curso",
-    "href": "posts/IAParaIniciantes/index.html#por-que-fazer-este-curso",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "Por que fazer este curso?",
-    "text": "Por que fazer este curso?\nMuitas pessoas têm uma ideia vaga sobre o que é Inteligência Artificial, ou mesmo uma noção equivocada. Este curso desmistifica a IA e oferece uma base sólida para que você compreenda o impacto real que ela tem no mundo. Ao aprender os conceitos fundamentais da IA, você será capaz de enxergar as diversas formas de aplicação dessa tecnologia e entender seus limites e potenciais.\nA inteligência artificial já está moldando o futuro dos negócios e da sociedade. Profissionais que entendem dessa área têm uma vantagem significativa no mercado de trabalho, pois a demanda por especialistas em IA está crescendo em várias indústrias. De fato, profissionais com habilidades em IA são cada vez mais requisitados, e com isso, melhores oportunidades de trabalho e pesquisa.\nAlém disso, se você já tem uma ideia inovadora ou até mesmo um projeto em mente, o conhecimento em IA pode ser a chave para transformar essas ideias em realidade. Em campos emergentes, onde a IA pode ser um grande diferencial competitivo, você pode até criar seu próprio negócio, aproveitando o poder dessa tecnologia para inovar."
-  },
-  {
-    "objectID": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial-ia",
-    "href": "posts/IAParaIniciantes/index.html#o-que-é-inteligência-artificial-ia",
-    "title": "Inteligência Artificial para Iniciantes",
-    "section": "O que é Inteligência Artificial (IA) ?",
-    "text": "O que é Inteligência Artificial (IA) ?\n\nA inteligência artificial é um campo da ciência que se concentra na criação de computadores e máquinas que podem raciocinar, aprender e atuar de maneira que normalmente exigiria inteligência humana ou que envolve dados com escala maior do que as pessoas podem analisar.\n— Google Cloud\n\nDe maneira geral, no seu núcleo, a IA busca criar sistemas capazes de aprender, raciocinar e tomar decisões com base em dados, de uma maneira que simula a inteligência humana.\nMas como isso acontece? Seja por meio de aprendizado de máquina, processamento de linguagem natural ou modelos preditivos, a IA está presente em inúmeros aspectos do nosso dia a dia: ela escolhe a melhor rota no seu aplicativo de transporte, sugere filmes e músicas que você vai adorar, e até mesmo responde a suas perguntas em plataformas como o ChatGPT."
   }
 ]

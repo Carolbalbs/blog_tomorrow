@@ -1,0 +1,28 @@
+---
+title: "Pensamento computacional"
+author: "Henrique Scoppetta"
+date: "2025-09-16"
+categories: [educação, sustentabilidade]
+---
+
+Artigo sobre Pensamento Computacional do blog da Tomorrow Positivo UFBA.
+
+![](thumbnail.jpg)
+
+---
+
+Bem-vindo ao **Tomorrow Positivo UFBA** ! Este espaço é dedicado à reflexão e à produção de conhecimento sobre temas contemporâneos relacionados à computação, educação e inovação. Neste artigo, abordamos o **pensamento computacional**, uma competência essencial para compreender e atuar de forma crítica no mundo digital.
+
+Segundo Wing (2006), o pensamento computacional pode ser definido como um conjunto de processos cognitivos que envolvem a formulação de problemas e a construção de soluções passíveis de serem executadas por um agente computacional — humano ou máquina. Essa habilidade transcende a programação, pois está relacionada a raciocinar de maneira sistemática, decompondo problemas complexos em partes menores, identificando padrões, abstraindo informações e projetando algoritmos.
+
+Nosso objetivo, com este espaço, é contribuir para a difusão desse conceito e incentivar estudantes, professores e pesquisadores a explorarem suas aplicações em diferentes áreas do conhecimento. O pensamento computacional não se restringe às ciências exatas: ele pode apoiar a resolução de desafios em contextos como saúde, educação, economia e sustentabilidade.
+
+## Sobre o Tomorrow Positivo UFBA
+
+O **Tomorrow Positivo UFBA** é um projeto desenvolvido no âmbito do Instituto de Computação da UFBA, em parceria com a Positivo. Sua missão é ampliar o acesso a conteúdos formativos em computação e fomentar uma cultura de inovação baseada em princípios acadêmicos e sociais. Entendemos que o pensamento computacional, enquanto competência transversal, é fundamental para formar profissionais e cidadãos preparados para lidar com os desafios do século XXI.
+Nosso compromisso é disponibilizar periodicamente cursos e materiais didáticos gratuitos que abordam diferentes dimensões do pensamento computacional, desde conceitos fundamentais até aplicações práticas. Os conteúdos incluem temas como decomposição de problemas, reconhecimento de padrões, abstração, algoritmos e suas conexões com áreas emergentes como inteligência artificial, ciência de dados e segurança digital.
+
+>Apresentamos com orgulho o nosso Projeto de Tomorrow, um verdadeiro tesouro para todos que desejam desbravar o vasto mundo da computação. Nosso compromisso é simples: disponibilizar cursos novos e empolgantes relacionados à área de computação todos os meses, e o melhor de tudo, de forma totalmente gratuita!
+
+>Essa iniciativa é aberta tanto à comunidade acadêmica da UFBA quanto ao público externo interessado em aprofundar seus conhecimentos. Nosso propósito é estimular uma aprendizagem crítica, colaborativa e acessível, fortalecendo a formação de sujeitos capazes de aplicar o pensamento computacional para inovar e transformar positivamente a sociedade.
+— Tomorrow Positivo UFBA

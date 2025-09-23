@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/GCS/index.html",
       "/posts/IAParaIniciantes/index.html",
+      "/posts/Pensamento Computacional/index.html",
       "/posts/welcome/index.html"
     ]
   }
